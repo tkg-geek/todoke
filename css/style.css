@@ -270,7 +270,7 @@ textarea {
 
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 0.3fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
@@ -334,7 +334,7 @@ header {
 }
 
 .header-text {
-    font-size: 0.825rem;
+    font-size: 0.65rem;
     color: var(--main-color);
 }
 
