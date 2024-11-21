@@ -1,0 +1,15 @@
+/todoke
+├── /css
+│   └── style.css
+├── /data
+│   └── answers.json
+├── /includes
+│   └── header.php    //共通headerタグ
+│   └── head.php      //共通headタグ
+├── index.php         //topページ
+├── post.php          //投稿ページ
+├── confirm.php       //投稿の内容確認ページ
+├── complete.php      //「送信しました」を表示するページ
+├── read.php          //結果を一覧表示するページ
+└── answer.php        //class定義、メソッドを記述する用
+
